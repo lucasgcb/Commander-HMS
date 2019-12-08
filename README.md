@@ -16,7 +16,7 @@ The state machine and commands available as as follow:
 
 ![machine](./doc/img/machine.png)
 
-Send commands by connecting to the microcontroller through the serial.
+Send commands by connecting to the microcontroller through the COM serial interface.
 
 Commands for changing step values:
 
