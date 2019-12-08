@@ -17,6 +17,7 @@ The state machine and commands available as as follow:
 ![machine](./doc/img/machine.png)
 
 Send commands by connecting to the microcontroller through the COM serial interface.
+You can use [Python](https://pyserial.readthedocs.io/en/latest/) or something like [Terminalbpp](https://sites.google.com/site/terminalbpp/) for that.
 
 Commands for changing step values:
 
@@ -31,3 +32,7 @@ Commands for checking step:
 *STPY
 
 Response: the current step for the chosen axis 
+
+### Showcase 
+
+[HMS-X Scanner](https://github.com/lucasgcb/CEM-Scanner-HMS-X) - A project that utilizes this interface to control three motors in a dual axis automation hub for automatic measurement of printed circuit boards.
