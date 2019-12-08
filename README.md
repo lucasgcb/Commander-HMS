@@ -1,4 +1,4 @@
-This repository implements the Commander interface for controlling a step motor utilizing EasyDriver and an STM32F103C8T6 Blue Pill Board. 
+This repository implements the Commander interface for controlling a step motor utilizing [EasyDriver](https://www.schmalzhaus.com/EasyDriver/) and an STM32F103C8T6 Blue Pill Board. 
 
 This has been developed using the [STM32CubeMX IDE by STM](https://www.st.com/en/development-tools/stm32cubeide.html).
 
